@@ -1,0 +1,2 @@
+PREFIX="U#"
+MONGO_URI=mongodb+srv://natmongo:natgantengg@cluster1.fn8n4.mongodb.net/?retryWrites=true&w=majority
